@@ -1,0 +1,17 @@
+# Entorno Python
+.venv/
+__pycache__/
+*.pyc
+
+# Datos/artefactos locales
+data/raw/
+data/processed/
+mlruns/        # runs de MLflow (los mantenemos locales)
+models/
+outputs/
+
+# Sistema / IDE
+.DS_Store
+*.log
+.vscode/
+.idea/
