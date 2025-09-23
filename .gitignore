@@ -6,7 +6,7 @@ __pycache__/
 # Datos/artefactos locales
 data/raw/
 data/processed/
-mlruns/        # runs de MLflow (los mantenemos locales)
+mlruns       # runs de MLflow (los mantenemos locales)
 models/
 outputs/
 
@@ -15,3 +15,5 @@ outputs/
 *.log
 .vscode/
 .idea/
+
+requerimientos.txt
