@@ -17,3 +17,6 @@ outputs/
 .idea/
 
 requerimientos.txt
+opiniones.csv
+creacion_data_set.py
+mlruns/

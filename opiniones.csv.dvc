@@ -1,0 +1,5 @@
+outs:
+- md5: 35cee2e11b981e549f1f5714f4096e31
+  size: 331
+  hash: md5
+  path: opiniones.csv
